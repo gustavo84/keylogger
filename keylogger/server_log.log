@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-16T11:56:17</date>
+  <millis>1539683777112</millis>
+  <sequence>1</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:17</date>
+  <millis>1539683777112</millis>
+  <sequence>0</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: C</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:17</date>
+  <millis>1539683777415</millis>
+  <sequence>2</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: D</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:17</date>
+  <millis>1539683777415</millis>
+  <sequence>3</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:23</date>
+  <millis>1539683783954</millis>
+  <sequence>4</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: D</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:23</date>
+  <millis>1539683783954</millis>
+  <sequence>5</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:25</date>
+  <millis>1539683785812</millis>
+  <sequence>6</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: E</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:25</date>
+  <millis>1539683785812</millis>
+  <sequence>7</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:26</date>
+  <millis>1539683786439</millis>
+  <sequence>8</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: E</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:26</date>
+  <millis>1539683786440</millis>
+  <sequence>9</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:27</date>
+  <millis>1539683787063</millis>
+  <sequence>10</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: E</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:27</date>
+  <millis>1539683787064</millis>
+  <sequence>11</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:27</date>
+  <millis>1539683787816</millis>
+  <sequence>12</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: E</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:27</date>
+  <millis>1539683787816</millis>
+  <sequence>13</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:28</date>
+  <millis>1539683788328</millis>
+  <sequence>14</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: A</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:28</date>
+  <millis>1539683788328</millis>
+  <sequence>15</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:28</date>
+  <millis>1539683788952</millis>
+  <sequence>16</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: A</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:28</date>
+  <millis>1539683788952</millis>
+  <sequence>17</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:29</date>
+  <millis>1539683789416</millis>
+  <sequence>18</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: A</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:29</date>
+  <millis>1539683789416</millis>
+  <sequence>19</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:30</date>
+  <millis>1539683790024</millis>
+  <sequence>20</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: A</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:30</date>
+  <millis>1539683790024</millis>
+  <sequence>21</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:30</date>
+  <millis>1539683790785</millis>
+  <sequence>22</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: A</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:30</date>
+  <millis>1539683790785</millis>
+  <sequence>23</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:35</date>
+  <millis>1539683795717</millis>
+  <sequence>24</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: F</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:35</date>
+  <millis>1539683795717</millis>
+  <sequence>25</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:36</date>
+  <millis>1539683796456</millis>
+  <sequence>26</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: A</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:36</date>
+  <millis>1539683796456</millis>
+  <sequence>27</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:37</date>
+  <millis>1539683797160</millis>
+  <sequence>28</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: E</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:37</date>
+  <millis>1539683797160</millis>
+  <sequence>29</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:38</date>
+  <millis>1539683798232</millis>
+  <sequence>30</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: A</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:38</date>
+  <millis>1539683798232</millis>
+  <sequence>31</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:38</date>
+  <millis>1539683798872</millis>
+  <sequence>32</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 5</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:38</date>
+  <millis>1539683798872</millis>
+  <sequence>33</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:39</date>
+  <millis>1539683799272</millis>
+  <sequence>34</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 4</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:39</date>
+  <millis>1539683799272</millis>
+  <sequence>35</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:39</date>
+  <millis>1539683799768</millis>
+  <sequence>36</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: A</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:39</date>
+  <millis>1539683799768</millis>
+  <sequence>37</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:41</date>
+  <millis>1539683801884</millis>
+  <sequence>38</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:41</date>
+  <millis>1539683801899</millis>
+  <sequence>39</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:42</date>
+  <millis>1539683802329</millis>
+  <sequence>40</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 9</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:42</date>
+  <millis>1539683802344</millis>
+  <sequence>41</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:43</date>
+  <millis>1539683803450</millis>
+  <sequence>42</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:43</date>
+  <millis>1539683803450</millis>
+  <sequence>43</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:43</date>
+  <millis>1539683803951</millis>
+  <sequence>44</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:43</date>
+  <millis>1539683803951</millis>
+  <sequence>45</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:43</date>
+  <millis>1539683803989</millis>
+  <sequence>46</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:43</date>
+  <millis>1539683803989</millis>
+  <sequence>47</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804020</millis>
+  <sequence>48</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804020</millis>
+  <sequence>49</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804051</millis>
+  <sequence>50</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804051</millis>
+  <sequence>51</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804089</millis>
+  <sequence>52</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804089</millis>
+  <sequence>53</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804115</millis>
+  <sequence>54</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804115</millis>
+  <sequence>55</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804152</millis>
+  <sequence>56</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804152</millis>
+  <sequence>57</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804189</millis>
+  <sequence>58</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804189</millis>
+  <sequence>59</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804220</millis>
+  <sequence>60</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804220</millis>
+  <sequence>61</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804252</millis>
+  <sequence>62</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804252</millis>
+  <sequence>63</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804280</millis>
+  <sequence>64</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804280</millis>
+  <sequence>65</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804319</millis>
+  <sequence>66</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804319</millis>
+  <sequence>67</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804350</millis>
+  <sequence>68</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804350</millis>
+  <sequence>69</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804389</millis>
+  <sequence>70</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804389</millis>
+  <sequence>71</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804420</millis>
+  <sequence>72</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804420</millis>
+  <sequence>73</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804452</millis>
+  <sequence>74</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804452</millis>
+  <sequence>75</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804489</millis>
+  <sequence>76</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804489</millis>
+  <sequence>77</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804521</millis>
+  <sequence>78</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804521</millis>
+  <sequence>79</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804552</millis>
+  <sequence>80</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804552</millis>
+  <sequence>81</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804577</millis>
+  <sequence>82</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:44</date>
+  <millis>1539683804577</millis>
+  <sequence>83</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:45</date>
+  <millis>1539683805007</millis>
+  <sequence>84</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:45</date>
+  <millis>1539683805007</millis>
+  <sequence>85</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:45</date>
+  <millis>1539683805288</millis>
+  <sequence>86</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 9</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:45</date>
+  <millis>1539683805288</millis>
+  <sequence>87</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:46</date>
+  <millis>1539683806126</millis>
+  <sequence>88</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:46</date>
+  <millis>1539683806126</millis>
+  <sequence>89</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:46</date>
+  <millis>1539683806627</millis>
+  <sequence>90</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:46</date>
+  <millis>1539683806627</millis>
+  <sequence>91</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:47</date>
+  <millis>1539683807415</millis>
+  <sequence>92</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:47</date>
+  <millis>1539683807415</millis>
+  <sequence>93</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:47</date>
+  <millis>1539683807615</millis>
+  <sequence>94</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 9</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:47</date>
+  <millis>1539683807615</millis>
+  <sequence>95</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:49</date>
+  <millis>1539683809695</millis>
+  <sequence>96</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Alt</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:49</date>
+  <millis>1539683809695</millis>
+  <sequence>97</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:49</date>
+  <millis>1539683809722</millis>
+  <sequence>98</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 9</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:49</date>
+  <millis>1539683809722</millis>
+  <sequence>99</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:51</date>
+  <millis>1539683811661</millis>
+  <sequence>100</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Mayús</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:51</date>
+  <millis>1539683811661</millis>
+  <sequence>101</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:51</date>
+  <millis>1539683811846</millis>
+  <sequence>102</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 9</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:51</date>
+  <millis>1539683811846</millis>
+  <sequence>103</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:52</date>
+  <millis>1539683812552</millis>
+  <sequence>104</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Mayús</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:52</date>
+  <millis>1539683812552</millis>
+  <sequence>105</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:52</date>
+  <millis>1539683812712</millis>
+  <sequence>106</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 9</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:52</date>
+  <millis>1539683812712</millis>
+  <sequence>107</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:53</date>
+  <millis>1539683813464</millis>
+  <sequence>108</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Mayús</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:53</date>
+  <millis>1539683813464</millis>
+  <sequence>109</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:53</date>
+  <millis>1539683813971</millis>
+  <sequence>110</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Mayús</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:53</date>
+  <millis>1539683813971</millis>
+  <sequence>111</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:54</date>
+  <millis>1539683814005</millis>
+  <sequence>112</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Mayús</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:54</date>
+  <millis>1539683814005</millis>
+  <sequence>113</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:54</date>
+  <millis>1539683814036</millis>
+  <sequence>114</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Mayús</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:54</date>
+  <millis>1539683814036</millis>
+  <sequence>115</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:54</date>
+  <millis>1539683814063</millis>
+  <sequence>116</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Mayús</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:54</date>
+  <millis>1539683814063</millis>
+  <sequence>117</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:54</date>
+  <millis>1539683814520</millis>
+  <sequence>118</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Mayús</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:54</date>
+  <millis>1539683814520</millis>
+  <sequence>119</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:54</date>
+  <millis>1539683814664</millis>
+  <sequence>120</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 9</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:54</date>
+  <millis>1539683814664</millis>
+  <sequence>121</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:55</date>
+  <millis>1539683815672</millis>
+  <sequence>122</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Mayús</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:55</date>
+  <millis>1539683815673</millis>
+  <sequence>123</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:55</date>
+  <millis>1539683815928</millis>
+  <sequence>124</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 9</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:55</date>
+  <millis>1539683815928</millis>
+  <sequence>125</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:57</date>
+  <millis>1539683817208</millis>
+  <sequence>126</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: Mayús</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:57</date>
+  <millis>1539683817208</millis>
+  <sequence>127</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:57</date>
+  <millis>1539683817416</millis>
+  <sequence>128</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>keylogger.keylogger</class>
+  <method>nativeKeyPressed</method>
+  <thread>15</thread>
+  <message>Key Pressed: 9</message>
+</record>
+<record>
+  <date>2018-10-16T11:56:57</date>
+  <millis>1539683817416</millis>
+  <sequence>129</sequence>
+  <logger>org.jnativehook</logger>
+  <level>SEVERE</level>
+  <class>org.jnativehook.GlobalScreen$NativeHookThread</class>
+  <method>enable</method>
+  <thread>13</thread>
+  <message>refresh_locale_list [628]: Could not find keyboard map for locale 0X00000000040A0C0A!
+</message>
+</record>
